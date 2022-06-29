@@ -1,0 +1,14 @@
+{
+  "name": "prueba_entrevista",
+  "version": "1.0.0",
+  "description": "codigos de prueba realizados en entrevistas",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres O",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
